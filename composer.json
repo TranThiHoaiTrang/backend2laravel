@@ -1,0 +1,19 @@
+{
+    "name": "tranthihoaitrang/bew2-29-3",
+    "description": "Create text",
+    "keywords": [],
+    "authors": [
+        {
+            "name": "tranthihoaitrang",
+            "email": "hoaitranghuawei@gmail.com",
+            "homepage": ""
+        }
+    ],
+    "license": "MIT",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "tranthihoaitrang\\backend2laravel\\": "/" }
+        },
+        "minimum-stability": "dev"
+ }
